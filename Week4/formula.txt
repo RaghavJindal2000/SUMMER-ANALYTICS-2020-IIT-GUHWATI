@@ -1,0 +1,17 @@
+TP	FP
+FN	TN
+
+
+
+True Positive Rate(TPR): True Positive/FN + TP
+False Positive Rate(FPR): True Negative/TN + FP
+False Negative Rate(FNR): False Positive /TN + FP 
+True Negative Rate(TNR): False Negative/FN + TP
+
+Senstivity = TPR
+
+Specificity = FPR 
+
+Precision = True Positive/Actual Positive
+Recall = True Positive/ Predicted Result
+Accuracy = TP + TN /TOTAL 
