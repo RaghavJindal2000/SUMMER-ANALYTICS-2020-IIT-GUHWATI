@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.quizlet.com	TRUE	/	FALSE	1999999999	__cfduid	d53ae13d9bf9b064f863066abf141722e1590216322
+o.quizlet.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
